@@ -1,0 +1,18 @@
+# Java Maven Spring Boot .gitignore
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.mv.db
+*.trace.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+out/
